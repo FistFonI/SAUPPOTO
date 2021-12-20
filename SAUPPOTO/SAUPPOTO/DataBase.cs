@@ -13,14 +13,28 @@ namespace SAUPPOTO
 
         public void openConnection()
         {
-            if (connection.State == System.Data.ConnectionState.Closed)
-                connection.Open();
+            try
+            {
+                if (connection.State == System.Data.ConnectionState.Closed)
+                    connection.Open();
+            }
+            catch
+            {
+                Console.WriteLine("Произошла ошибка, обратитесь в поддержку");
+            }
         }
 
         public void closeConnection()
         {
-            if (connection.State == System.Data.ConnectionState.Open)
-                connection.Open();
+            try
+            {
+                if (connection.State == System.Data.ConnectionState.Open)
+                    connection.Open();
+            }
+            catch
+            {
+                Console.WriteLine("Произошла ошибка, обратитесь в поддержку");
+            }
         }
         
         public MySqlConnection getConnection()
