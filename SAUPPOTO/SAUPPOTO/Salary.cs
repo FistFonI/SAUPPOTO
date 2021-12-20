@@ -8,5 +8,16 @@ namespace SAUPPOTO
 {
     class Salary
     {
+        private decimal hourlyPayValue;
+        public decimal HourlyPayValue;
+
+        private decimal premiumValue;
+        public decimal PremiumValue;
+
+        private int workingHours;
+        public int WorkingHours;
+
+        private decimal salaryValue;
+        public decimal SalaryValue;
     }
 }
