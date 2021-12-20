@@ -9,8 +9,11 @@ namespace SAUPPOTO
     class Employee
     {
         public Guid ID; 
+
         public string FullName;
+
         public string Position;
+
         public Salary Salary;
     }
 }
