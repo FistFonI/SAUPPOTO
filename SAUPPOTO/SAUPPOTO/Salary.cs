@@ -44,11 +44,9 @@ namespace SAUPPOTO
             }
         }
 
-        private decimal salaryValue;
         public decimal SalaryValue
         {
-            get { return hourlyPayValue; }
-
+            get { return hourlyPayValue * workingHours + premiumValue; }
         }
     }
 }
