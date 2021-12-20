@@ -8,12 +8,12 @@ namespace SAUPPOTO
 {
     class Employee
     {
-        public Guid ID; 
+        public Guid ID; //уникальный идентификатор сотрудника
 
-        public string FullName;
+        public string FullName; //Фамилия Имя Отчетство
 
-        public string Position;
+        public string Position; //Должность 
 
-        public Salary Salary;
+        public Salary Salary; //Зарплата
     }
 }
