@@ -8,8 +8,8 @@ namespace SAUPPOTO
 {
     class Salary
     {
-        private decimal hourlyPayValue;
-        public decimal HourlyPayValue
+        private decimal hourlyPayValue; //размер почасовой оплаты труда
+        public decimal HourlyPayValue //свойство для поля hourlyPayValue
         {
             get { return hourlyPayValue; }
             set
@@ -20,8 +20,8 @@ namespace SAUPPOTO
             }
         }
 
-        private decimal premiumValue;
-        public decimal PremiumValue
+        private decimal premiumValue; //размер премии
+        public decimal PremiumValue //свойство для поля premiumValue
         {
             get { return premiumValue; }
             set
@@ -32,8 +32,8 @@ namespace SAUPPOTO
             }
         }
 
-        private int workingHours;
-        public int WorkingHours
+        private int workingHours; //количество рабочих часов в месяц
+        public int WorkingHours //свойство для поля workingHours
         {
             get { return workingHours; }
             set
@@ -44,7 +44,7 @@ namespace SAUPPOTO
             }
         }
 
-        public decimal SalaryValue
+        public decimal SalaryValue //свойство размера зарплаты, которое только возвращает значение по формуле: размер почасовой оплаты труда * кол-во рабочих часов + размер премии
         {
             get { return hourlyPayValue * workingHours + premiumValue; }
         }
