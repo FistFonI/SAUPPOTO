@@ -1,0 +1,12 @@
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.exe.config
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.exe
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.pdb
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csprojAssemblyReference.cache
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.MainForm.resources
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.Form2.resources
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.Form3.resources
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.Properties.Resources.resources
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.GenerateResource.cache
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CoreCompileInputs.cache
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.exe
+C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.pdb

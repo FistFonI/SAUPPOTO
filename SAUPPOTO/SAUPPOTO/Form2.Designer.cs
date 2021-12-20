@@ -115,7 +115,6 @@ namespace SAUPPOTO
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SAUPPOTO";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form2_FormClosing);
-
             this.ResumeLayout(false);
             this.PerformLayout();
 

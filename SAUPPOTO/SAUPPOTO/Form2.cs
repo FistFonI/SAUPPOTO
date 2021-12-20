@@ -15,6 +15,23 @@ namespace SAUPPOTO
         public Form2()
         {
             InitializeComponent();
+            this.BackColor = Color.FromArgb(82, 183, 139);
+        }
+
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form ifrm = Application.OpenForms[0];
+            ifrm.Show();
+            this.Visible = false;
+        }
+
+
+
+        private void Form2_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

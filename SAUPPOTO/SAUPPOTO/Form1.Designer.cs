@@ -44,7 +44,6 @@ namespace SAUPPOTO
             this.button1.TabIndex = 0;
             this.button1.Text = "Перейти к списку сотрудников";
             this.button1.UseVisualStyleBackColor = true;
-            
             // 
             // button2
             // 
@@ -80,7 +79,6 @@ namespace SAUPPOTO
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SAUPPOTO";
-
             this.ResumeLayout(false);
             this.PerformLayout();
 
