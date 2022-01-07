@@ -4,16 +4,40 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace SAUPPOTO
 {
-    class Employee
+    /// <summary>
+    /// Сотрудник.
+    /// </summary>
+    public class Employee
     {
-        public Guid ID; //уникальный идентификатор сотрудника
+        /// <summary>
+        /// Уникальный идентификатор сотрудника.
+        /// </summary>
+        public Guid ID;
 
-        public string FullName; //Фамилия Имя Отчетство
+        /// <summary>
+        /// Фамилия Имя Отчетство.
+        /// </summary>
+        public string FullName;
 
-        public string Position; //Должность 
+        /// <summary>
+        /// Должность.
+        /// </summary>
+        public string Position;
 
-        public Salary Salary; //Зарплата
+        /// <summary>
+        /// Зарплата.
+        /// </summary>
+        public Salary Salary;
+
+        /// <summary>
+        /// Конструктор объявления Employee.
+        /// </summary>
+        public Employee()
+        {
+            Salary = new Salary();
+        }
     }
 }

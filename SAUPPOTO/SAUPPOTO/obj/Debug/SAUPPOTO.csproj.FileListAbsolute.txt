@@ -1,12 +1,127 @@
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.exe.config
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.exe
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.pdb
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csprojAssemblyReference.cache
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.MainForm.resources
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.Form2.resources
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.Form3.resources
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.Properties.Resources.resources
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.GenerateResource.cache
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CoreCompileInputs.cache
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.exe
-C:\Users\ivkor\Documents\Курсовая\5 лабораторная\SAUPPOTO\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.pdb
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.exe.config
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.exe
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\bin\Debug\SAUPPOTO.pdb
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeEditForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.exe
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.pdb
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.MainMenuForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeMenuForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.StatisticForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeAddForm.resources
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.exe.config
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.exe
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.pdb
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\MySql.Data.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Buffers.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Memory.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\ZstdNet.dll
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.pdb
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\MySql.Data.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Buffers.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Memory.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.AssemblyReference.cache
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeAddForm.resources
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeEditForm.resources
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeMenuForm.resources
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.MainMenuForm.resources
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.Properties.Resources.resources
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.StatisticForm.resources
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.GenerateResource.cache
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CoreCompileInputs.cache
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CopyComplete
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.exe
+C:\Users\4сB\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.pdb
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.exe.config
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.exe
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.pdb
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\MySql.Data.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Buffers.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Memory.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\ZstdNet.dll
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\MySql.Data.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Buffers.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Memory.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csprojAssemblyReference.cache
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeAddForm.resources
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeEditForm.resources
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeMenuForm.resources
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.Help_Form.resources
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.MainMenuForm.resources
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.Properties.Resources.resources
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.StatisticForm.resources
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.GenerateResource.cache
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CoreCompileInputs.cache
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CopyComplete
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.exe
+C:\Users\ivkor\Documents\ысз ещщдлше\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.pdb
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.exe.config
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.exe
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\SAUPPOTO.pdb
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\MySql.Data.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Buffers.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Memory.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\ZstdNet.dll
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.pdb
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\Google.Protobuf.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\MySql.Data.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Buffers.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Memory.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeAddForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeEditForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.EmployeeMenuForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.MainMenuForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.StatisticForm.resources
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.GenerateResource.cache
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.csproj.CopyComplete
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.exe
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.pdb
+C:\Users\Dmitry\Desktop\SAUPPOTO1\SAUPPOTO\obj\Debug\SAUPPOTO.HelpForm.resources

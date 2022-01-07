@@ -6,10 +6,21 @@ using System.Threading.Tasks;
 
 namespace SAUPPOTO
 {
-    class Salary
+    /// <summary>
+    /// Зарплата.
+    /// </summary>
+    public class Salary
     {
-        private decimal hourlyPayValue; //размер почасовой оплаты труда
-        public decimal HourlyPayValue //свойство для поля hourlyPayValue
+        /// <summary>
+        /// Размер почасовой оплаты труда.
+        /// </summary>
+        private decimal hourlyPayValue;
+
+        /// <summary>
+        /// Свойство для поля почасовой оплаты труда.
+        /// </summary>  
+        /// <exception cref="ArgumentException">Размер почасовой оплаты труда должен быть больше 0</exception>
+        public decimal HourlyPayValue 
         {
             get { return hourlyPayValue; }
             set
@@ -20,8 +31,16 @@ namespace SAUPPOTO
             }
         }
 
-        private decimal premiumValue; //размер премии
-        public decimal PremiumValue //свойство для поля premiumValue
+        /// <summary>
+        /// Размер премии.
+        /// </summary> 
+        private decimal premiumValue;
+
+        /// <summary>
+        /// Свойство для размера премии.
+        /// </summary> 
+        /// /// <exception cref="ArgumentException">Размер премии должен быть больше 0</exception>
+        public decimal PremiumValue 
         {
             get { return premiumValue; }
             set
@@ -32,8 +51,16 @@ namespace SAUPPOTO
             }
         }
 
-        private int workingHours; //количество рабочих часов в месяц
-        public int WorkingHours //свойство для поля workingHours
+        /// <summary>
+        /// Количество рабочих часов в месяц.
+        /// </summary> 
+        private int workingHours;
+
+        /// <summary>
+        /// Свойство для поля количества рабочих часов в месяц.
+        /// </summary> 
+        /// /// /// <exception cref="ArgumentException">Количество рабочих часов должно быть больше 0</exception>
+        public int WorkingHours 
         {
             get { return workingHours; }
             set
@@ -44,7 +71,10 @@ namespace SAUPPOTO
             }
         }
 
-        public decimal SalaryValue //свойство размера зарплаты, которое только возвращает значение по формуле: размер почасовой оплаты труда * кол-во рабочих часов + размер премии
+        /// <summary>
+        /// Возвращает зарплату размером: размер почасовой оплаты труда * кол-во рабочих часов + размер премии.
+        /// </summary> 
+        public decimal SalaryValue 
         {
             get { return hourlyPayValue * workingHours + premiumValue; }
         }
